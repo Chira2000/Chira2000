@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Chira2000
-- 👀 I’m interested in Coding
+- 👋 Hi, I’m Chirath Kavindu
+- 👀 I’m interested in Coding,Developing and Implementing...
 - 🌱 I’m currently learning Bachelors Degree of Computing 
-- 💞️ I’m looking to collaborate on ...
+- 💞️ System.out.println("Does it enough??");
 -
 
 <!---
