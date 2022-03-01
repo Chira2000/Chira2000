@@ -4,7 +4,7 @@
 ## I'm a Student, Undergraduate, Developer, and Learner!!
 
 
-- 🌱 I’m currently learning C|Java|HTML|CSS|JS|PHP|MySql
+- 🌱 I’m currently Using C|Java|HTML|CSS|JS|PHP|MySql
 - 👯 I’m looking to collaborate with other developers..
 - 🥅 2022 Goals: Just Learn Something New...
 - 😂 Fun fact: Chickens Are most Powerful Animals in Ubisoft Games..😂 
