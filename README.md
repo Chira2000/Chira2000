@@ -7,7 +7,7 @@
 - 🌱 I’m currently Using C|Java|HTML|CSS|JS|PHP|MySql
 - 👯 I’m looking to collaborate with other developers..
 - 🥅 2022 Goals: Just Learn Something New...
-- 😂 Fun fact: Chickens Are most Powerful Animals in Ubisoft Games..😂 
+- 😂 Fun fact: Chickens Are most Powerful Creatures in Ubisoft Games..😂 
 
 
 ### Connect with me:
