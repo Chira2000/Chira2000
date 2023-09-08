@@ -24,7 +24,7 @@
 
 
 
-<p>[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)</p>
+<p>[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Chira2000)](https://github.com/Chira2000/github-readme-stats)</p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Chira2000&show_icons=true&locale=en" /></p>
 
