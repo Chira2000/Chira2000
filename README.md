@@ -26,6 +26,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chira2000&layout=compact&theme=vision-friendly-dark)](https://github.com/Chira2000/github-readme-stats)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Chira2000&show_icons=true&locale=en" /></p>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Chira2000&" alt="Chira2000" /></p
